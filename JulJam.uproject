@@ -139,6 +139,10 @@
 		{
 			"Name": "MultiUserClient",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "255728979"
