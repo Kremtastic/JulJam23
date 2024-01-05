@@ -128,6 +128,14 @@
 			"Enabled": false
 		},
 		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
 			"Name": "Bridge",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -135,14 +143,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "MultiUserClient",
-			"Enabled": true
-		},
-		{
-			"Name": "Water",
-			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "255728979"
